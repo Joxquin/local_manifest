@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device_xiaomi_fog" name="dblenk-project/device_xiaomi_fog" remote="github" revision="lineage-20" />
+ <project path="vendor_xiaomi_fog" name="dblenk-project/vendor_xiaomi_fog" remote="github" revision="lineage-20" />
+ <project path="kernel_xiaomi_fog_header" name="dblenk-project/kernel_xiaomi_fog_header" remote="github" revision="lineage-20" />
+ <project path="hardware_xiaomi" name="dblenk-project/hardware_xiaomi" remote="github" revision="lineage-20" />
+ 
+</manifest>
