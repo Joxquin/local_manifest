@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/fog" name="Notkerd69/device_xiaomi_fog" remote="github" revision="pixys" />
+ <project path="device/xiaomi/fog" name="Joxquin/device_xiaomi_fog" remote="github" revision="elytra" />
  <project path="vendor/xiaomi/fog" name="dblenk-project/vendor_xiaomi_fog" remote="github" revision="lineage-20" />
  <project path="kernel/xiaomi/fog/header" name="dblenk-project/kernel_xiaomi_fog_header" remote="github" revision="lineage-20" />
  <project path="hardware/xiaomi" name="dblenk-project/hardware_xiaomi" remote="github" revision="lineage-20" />
