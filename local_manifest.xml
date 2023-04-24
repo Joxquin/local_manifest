@@ -6,7 +6,7 @@
  <project path="vendor/xiaomi/fog" name="dblenk-project/vendor_xiaomi_fog" remote="github" revision="lineage-20" />
  <project path="kernel/xiaomi/fog" name="dblenk-project/kernel_xiaomi_fog_header" remote="github" revision="lineage-20" />
  <project path="hardware/xiaomi" name="dblenk-project/hardware_xiaomi" remote="github" revision="lineage-20" />
- <project path="device/xiaomi/fog-kernel" name="dblenk-project/device/xiaomi/fog-kernel" remote="github" revision="13" />
+ <project path="device/xiaomi/fog-kernel" name="dblenk-project/device_xiaomi_fog-kernel" remote="github" revision="13" />
  
  <!-- Pro clag -->
         <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="github" revision="master" clone-depth="1"/>
