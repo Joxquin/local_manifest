@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+	<remote name="github" fetch="https://github.com" />
 
     <!-- Device trees -->
 	<project path="hardware/xiaomi" name="crdroidandroid/android_hardware_xiaomi" remote="github" revision="15.0" />
